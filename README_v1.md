@@ -1,3 +1,5 @@
+![alt text](SAIT_Software_Developer.png)
+
 <!--
 **Acer79/Acer79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
